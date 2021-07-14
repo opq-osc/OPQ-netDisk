@@ -1,0 +1,3 @@
+botoy==6.5
+cos_python_sdk_v5==1.9.7
+qcloud_cos==3.3.6
